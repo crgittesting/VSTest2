@@ -1,0 +1,125 @@
+2022-08-13 23:08:936 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-13 23:08:220 INFO  HomePage :29 - Clicking on Try Free Demo : [[ChromeDriver: chrome on WINDOWS (99dc16f9d047f454bcb8b9396b1e0edf)] -> xpath: //a[@class='btn hp-submit-btn hp-demo-acc-btn']]
+2022-08-13 23:08:261 INFO  HomePage :34 - Verifying the demopage text[[ChromeDriver: chrome on WINDOWS (99dc16f9d047f454bcb8b9396b1e0edf)] -> xpath: //h1[normalize-space()='Open Demo Account']]
+2022-08-13 23:08:273 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-13 23:08:934 INFO  HomePage :29 - Clicking on Try Free Demo : [[ChromeDriver: chrome on WINDOWS (d02688aebd30e86c992631de8f93f971)] -> xpath: //a[@class='btn hp-submit-btn hp-demo-acc-btn']]
+2022-08-13 23:08:659 INFO  CreateDemoAccountPage :54 - Sending First Name : [[ChromeDriver: chrome on WINDOWS (d02688aebd30e86c992631de8f93f971)] -> id: name]
+2022-08-13 23:08:722 INFO  CreateDemoAccountPage :59 - Sending last name: [[ChromeDriver: chrome on WINDOWS (d02688aebd30e86c992631de8f93f971)] -> id: lastName]
+2022-08-13 23:08:788 INFO  CreateDemoAccountPage :67 - Sending email address : [[ChromeDriver: chrome on WINDOWS (d02688aebd30e86c992631de8f93f971)] -> id: email]
+2022-08-13 23:08:849 INFO  CreateDemoAccountPage :72 - Sending phone number : [[ChromeDriver: chrome on WINDOWS (d02688aebd30e86c992631de8f93f971)] -> id: phoneInput]
+2022-08-13 23:08:932 INFO  CreateDemoAccountPage :84 - Clicking on Newletter box : [[ChromeDriver: chrome on WINDOWS (d02688aebd30e86c992631de8f93f971)] -> xpath: //label[@for='NewsLetter']]
+2022-08-13 23:08:37 INFO  CreateDemoAccountPage :90 - Clicking on Terms and Conditions Box : [[ChromeDriver: chrome on WINDOWS (d02688aebd30e86c992631de8f93f971)] -> xpath: //label[@for='GDPR']]
+2022-08-13 23:08:112 INFO  CreateDemoAccountPage :97 - Clicking on Create Account: [[ChromeDriver: chrome on WINDOWS (d02688aebd30e86c992631de8f93f971)] -> xpath: //button[@name='avaWidgetSubmit']]
+2022-08-13 23:08:883 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-13 23:08:812 INFO  HomePage :29 - Clicking on Try Free Demo : [[ChromeDriver: chrome on WINDOWS (0ac8b895dcf100b8706d88b13b8280ef)] -> xpath: //a[@class='btn hp-submit-btn hp-demo-acc-btn']]
+2022-08-13 23:08:845 INFO  HomePage :34 - Verifying the demopage text[[ChromeDriver: chrome on WINDOWS (0ac8b895dcf100b8706d88b13b8280ef)] -> xpath: //h1[normalize-space()='Open Demo Account']]
+2022-08-13 23:08:859 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-13 23:08:862 INFO  HomePage :29 - Clicking on Try Free Demo : [[ChromeDriver: chrome on WINDOWS (6ba0751093dd2cafd71004266cd58aa6)] -> xpath: //a[@class='btn hp-submit-btn hp-demo-acc-btn']]
+2022-08-13 23:08:658 INFO  CreateDemoAccountPage :53 - Sending First Name : [[ChromeDriver: chrome on WINDOWS (6ba0751093dd2cafd71004266cd58aa6)] -> id: name]
+2022-08-13 23:08:729 INFO  CreateDemoAccountPage :58 - Sending last name: [[ChromeDriver: chrome on WINDOWS (6ba0751093dd2cafd71004266cd58aa6)] -> id: lastName]
+2022-08-13 23:08:808 INFO  CreateDemoAccountPage :66 - Sending email address : [[ChromeDriver: chrome on WINDOWS (6ba0751093dd2cafd71004266cd58aa6)] -> id: email]
+2022-08-13 23:08:884 INFO  CreateDemoAccountPage :71 - Sending phone number : [[ChromeDriver: chrome on WINDOWS (6ba0751093dd2cafd71004266cd58aa6)] -> id: phoneInput]
+2022-08-13 23:08:08 INFO  CreateDemoAccountPage :79 - Clicking on Newletter box : [[ChromeDriver: chrome on WINDOWS (6ba0751093dd2cafd71004266cd58aa6)] -> xpath: //label[@for='NewsLetter']]
+2022-08-13 23:08:156 INFO  CreateDemoAccountPage :85 - Clicking on Terms and Conditions Box : [[ChromeDriver: chrome on WINDOWS (6ba0751093dd2cafd71004266cd58aa6)] -> xpath: //label[@for='GDPR']]
+2022-08-13 23:08:230 INFO  CreateDemoAccountPage :92 - Clicking on Create Account: [[ChromeDriver: chrome on WINDOWS (6ba0751093dd2cafd71004266cd58aa6)] -> xpath: //button[@name='avaWidgetSubmit']]
+2022-08-13 23:08:677 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-13 23:08:669 INFO  HomePage :29 - Clicking on Try Free Demo : [[ChromeDriver: chrome on WINDOWS (c9c47185a7b7d23be5316b0e9845ee29)] -> xpath: //a[@class='btn hp-submit-btn hp-demo-acc-btn']]
+2022-08-13 23:08:750 INFO  HomePage :34 - Verifying the demopage text[[ChromeDriver: chrome on WINDOWS (c9c47185a7b7d23be5316b0e9845ee29)] -> xpath: //h1[normalize-space()='Open Demo Account']]
+2022-08-13 23:08:779 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-13 23:08:560 INFO  HomePage :29 - Clicking on Try Free Demo : [[ChromeDriver: chrome on WINDOWS (3bdb653dcf116189dffda5ea6149bb06)] -> xpath: //a[@class='btn hp-submit-btn hp-demo-acc-btn']]
+2022-08-13 23:08:304 INFO  CreateDemoAccountPage :53 - Sending First Name : [[ChromeDriver: chrome on WINDOWS (3bdb653dcf116189dffda5ea6149bb06)] -> id: name]
+2022-08-13 23:08:402 INFO  CreateDemoAccountPage :58 - Sending last name: [[ChromeDriver: chrome on WINDOWS (3bdb653dcf116189dffda5ea6149bb06)] -> id: lastName]
+2022-08-13 23:08:495 INFO  CreateDemoAccountPage :66 - Sending email address : [[ChromeDriver: chrome on WINDOWS (3bdb653dcf116189dffda5ea6149bb06)] -> id: email]
+2022-08-13 23:08:631 INFO  CreateDemoAccountPage :71 - Sending phone number : [[ChromeDriver: chrome on WINDOWS (3bdb653dcf116189dffda5ea6149bb06)] -> id: phoneInput]
+2022-08-13 23:08:804 INFO  CreateDemoAccountPage :79 - Clicking on Newletter box : [[ChromeDriver: chrome on WINDOWS (3bdb653dcf116189dffda5ea6149bb06)] -> xpath: //label[@for='NewsLetter']]
+2022-08-13 23:08:890 INFO  CreateDemoAccountPage :85 - Clicking on Terms and Conditions Box : [[ChromeDriver: chrome on WINDOWS (3bdb653dcf116189dffda5ea6149bb06)] -> xpath: //label[@for='GDPR']]
+2022-08-13 23:08:978 INFO  CreateDemoAccountPage :92 - Clicking on Create Account: [[ChromeDriver: chrome on WINDOWS (3bdb653dcf116189dffda5ea6149bb06)] -> xpath: //button[@name='avaWidgetSubmit']]
+2022-08-13 23:08:848 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-13 23:08:186 INFO  HomePage :29 - Clicking on Try Free Demo : [[ChromeDriver: chrome on WINDOWS (02b9158c4ac2384f51854e1929bb042b)] -> xpath: //a[@class='btn hp-submit-btn hp-demo-acc-btn']]
+2022-08-13 23:08:228 INFO  HomePage :34 - Verifying the demopage text[[ChromeDriver: chrome on WINDOWS (02b9158c4ac2384f51854e1929bb042b)] -> xpath: //h1[normalize-space()='Open Demo Account']]
+2022-08-13 23:08:240 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-13 23:08:13 INFO  HomePage :29 - Clicking on Try Free Demo : [[ChromeDriver: chrome on WINDOWS (02ad3e0bc310e1c0d3550d6e9f01c046)] -> xpath: //a[@class='btn hp-submit-btn hp-demo-acc-btn']]
+2022-08-13 23:08:540 INFO  CreateDemoAccountPage :53 - Sending First Name : [[ChromeDriver: chrome on WINDOWS (02ad3e0bc310e1c0d3550d6e9f01c046)] -> id: name]
+2022-08-13 23:08:633 INFO  CreateDemoAccountPage :58 - Sending last name: [[ChromeDriver: chrome on WINDOWS (02ad3e0bc310e1c0d3550d6e9f01c046)] -> id: lastName]
+2022-08-13 23:08:710 INFO  CreateDemoAccountPage :66 - Sending email address : [[ChromeDriver: chrome on WINDOWS (02ad3e0bc310e1c0d3550d6e9f01c046)] -> id: email]
+2022-08-13 23:08:785 INFO  CreateDemoAccountPage :71 - Sending phone number : [[ChromeDriver: chrome on WINDOWS (02ad3e0bc310e1c0d3550d6e9f01c046)] -> id: phoneInput]
+2022-08-13 23:08:887 INFO  CreateDemoAccountPage :79 - Clicking on Newletter box : [[ChromeDriver: chrome on WINDOWS (02ad3e0bc310e1c0d3550d6e9f01c046)] -> xpath: //label[@for='NewsLetter']]
+2022-08-13 23:08:957 INFO  CreateDemoAccountPage :85 - Clicking on Terms and Conditions Box : [[ChromeDriver: chrome on WINDOWS (02ad3e0bc310e1c0d3550d6e9f01c046)] -> xpath: //label[@for='GDPR']]
+2022-08-13 23:08:58 INFO  CreateDemoAccountPage :92 - Clicking on Create Account: [[ChromeDriver: chrome on WINDOWS (02ad3e0bc310e1c0d3550d6e9f01c046)] -> xpath: //button[@name='avaWidgetSubmit']]
+2022-08-14 11:08:84 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:139 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:579 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:983 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:594 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:279 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:103 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:427 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:766 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:134 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:909 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:585 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:698 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:345 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:605 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:979 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:902 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 11:08:370 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 12:08:481 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 12:08:493 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 12:08:931 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 19:08:833 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 19:08:396 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 19:08:780 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 19:08:985 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 19:08:544 INFO  TradePage :97 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (5394667126cfca52e3186accf880c284)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 19:08:677 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 19:08:528 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 19:08:832 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 19:08:35 INFO  TradePage :97 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (180e66c37ccdf7312836896d65d208b8)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 19:08:927 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 19:08:404 INFO  TradePage :98 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (2e22eec70c4e91ef6838cc7b41cc6680)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 20:08:768 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:940 INFO  TradePage :99 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (94f6577e745d919c01e8283c54d2f585)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 20:08:446 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:274 INFO  TradePage :100 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (cc53a41851b4c71d930301bc1cf45cd8)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 20:08:405 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:749 INFO  TradePage :100 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (4c1a4ad77a752ca7afd6d810dd337a6e)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 20:08:169 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:892 INFO  TradePage :102 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (18a50d6547402194aa38332064e67050)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 20:08:295 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:690 INFO  TradePage :102 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (e1f200e094043a289d28198e6387cdf0)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 20:08:347 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:660 INFO  TradePage :102 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (3f94369fb64aacbfbbd761f79f350f1b)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 20:08:795 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:351 INFO  TradePage :102 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (4f6e48e01259bc3eceffde67acac4e83)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 20:08:675 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:797 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:670 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:911 INFO  HomePage :29 - Clicking on Try Free Demo : [[ChromeDriver: chrome on WINDOWS (fa83301d38f4f51f22ad5447dcfc80a3)] -> xpath: //a[@class='btn hp-submit-btn hp-demo-acc-btn']]
+2022-08-14 20:08:952 INFO  HomePage :33 - Verifying the demopage text[[ChromeDriver: chrome on WINDOWS (fa83301d38f4f51f22ad5447dcfc80a3)] -> xpath: //h1[normalize-space()='Open Demo Account']]
+2022-08-14 20:08:966 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:107 INFO  HomePage :29 - Clicking on Try Free Demo : [[ChromeDriver: chrome on WINDOWS (3e0ed58d9d874115ea95fc8008ebd15b)] -> xpath: //a[@class='btn hp-submit-btn hp-demo-acc-btn']]
+2022-08-14 20:08:675 INFO  CreateDemoAccountPage :54 - Sending First Name : [[ChromeDriver: chrome on WINDOWS (3e0ed58d9d874115ea95fc8008ebd15b)] -> id: name]
+2022-08-14 20:08:748 INFO  CreateDemoAccountPage :58 - Sending last name: [[ChromeDriver: chrome on WINDOWS (3e0ed58d9d874115ea95fc8008ebd15b)] -> id: lastName]
+2022-08-14 20:08:821 INFO  CreateDemoAccountPage :64 - Sending email address : [[ChromeDriver: chrome on WINDOWS (3e0ed58d9d874115ea95fc8008ebd15b)] -> id: email]
+2022-08-14 20:08:23 INFO  CreateDemoAccountPage :68 - Sending phone number : [[ChromeDriver: chrome on WINDOWS (3e0ed58d9d874115ea95fc8008ebd15b)] -> id: phoneInput]
+2022-08-14 20:08:129 INFO  CreateDemoAccountPage :75 - Clicking on Newletter box : [[ChromeDriver: chrome on WINDOWS (3e0ed58d9d874115ea95fc8008ebd15b)] -> xpath: //label[@for='NewsLetter']]
+2022-08-14 20:08:247 INFO  CreateDemoAccountPage :79 - Clicking on Terms and Conditions Box : [[ChromeDriver: chrome on WINDOWS (3e0ed58d9d874115ea95fc8008ebd15b)] -> xpath: //label[@for='GDPR']]
+2022-08-14 20:08:327 INFO  CreateDemoAccountPage :84 - Clicking on Create Account: [[ChromeDriver: chrome on WINDOWS (3e0ed58d9d874115ea95fc8008ebd15b)] -> xpath: //button[@name='avaWidgetSubmit']]
+2022-08-14 20:08:85 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:731 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:822 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 20:08:940 INFO  TradePage :102 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (5603b5cb186444744e338c61fdd8536b)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 21:08:418 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 21:08:203 INFO  TradePage :102 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (dc05580f6a5079eba108d4edfd1521ba)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 22:08:684 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 22:08:828 INFO  TradePage :103 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (100fd6990e27f075617b6784b5c46f9b)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 22:08:912 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 22:08:504 INFO  TradePage :104 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (0801bac6b6c9d5026aa05b1cb5c44398)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-14 22:08:552 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 22:08:128 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 22:08:28 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 22:08:16 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-14 22:08:353 INFO  TradePage :102 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (8a4e88fe102ed77f6a3746b4588ecb98)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
+2022-08-15 08:08:931 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-08-15 08:08:982 INFO  TradePage :102 - Clicking on trade Button: [[ChromeDriver: chrome on WINDOWS (17e1c76c3b6f41cb0d703d6bc9558ade)] -> xpath: //a[@href='/trade']//div[@data-qa='aside__icon']//i[@data-qa='icon-wrapper__container']//*[name()='svg']]
